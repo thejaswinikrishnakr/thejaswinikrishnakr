@@ -32,5 +32,5 @@ MS Bioinformatics student at **Georgia Tech**. I like turning messy biological d
 
 ---
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=thejaswinikrishnakr&label=Profile%20views&color=0e75b6&style=flat)
 <sub>🔎 Currently exploring bioinformatics / computational biology roles — open to connecting.</sub>
